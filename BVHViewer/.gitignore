@@ -1,0 +1,10 @@
+bvhview
+bvhview.exe
+bvhview.html
+bvhview.js
+bvhview.wasm
+bvhview.zip
+examples/*
+*.log
+*__pycache__*
+*.exe
